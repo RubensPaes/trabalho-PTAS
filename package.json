@@ -1,0 +1,15 @@
+{
+  "name": "trabalho-ptas",
+  "version": "1.0.0",
+  "description": "O que é Middleware\r O middleware é um software que diferentes aplicações usam para se comunicar umas com as outras. Ele oferece funcionalidade para conectar aplicações de modo inteligente e eficiente, para que você possa inovar mais rapidamente. O middleware atua como uma ponte entre diversas tecnologias, ferramentas e bancos de dados para integrá-los perfeitamente em um único sistema. O sistema único oferece um serviço unificado para seus usuários. Por exemplo, uma aplicação de frontend do Windows envia e recebe dados de um servidor de backend do Linux, mas os usuários da aplicação desconhecem a diferença.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
